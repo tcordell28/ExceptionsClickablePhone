@@ -1,0 +1,17 @@
+{
+  "orgName": "Covetrus",
+  "edition": "Enterprise",
+  "features": ["DebugApex", "AuthorApex","ContactsToMultipleAccounts","TerritoryManagement"],
+  "settings": {
+     "orgPreferenceSettings": {
+        "chatterEnabled" : true,
+        "s1DesktopEnabled" : true
+    },
+    "opportunitySettings": {
+        "enableOpportunityTeam": true
+    },
+    "accountSettings": {
+        "enableAccountTeams": true
+    }
+    }
+}
